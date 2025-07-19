@@ -51,6 +51,7 @@
  - DOMAIN-KEYWORD,openai,😎AI 
  - DOMAIN-SUFFIX,groq.com,😎AI
  - DOMAIN,api.groq.com,😎AI
+ - DOMAIN,trae.ai,😎AI
  - IP-CIDR,24.199.123.28/32,😎AI
  - IP-CIDR,64.23.132.171/32,😎AI
  - IP-ASN,20473,😎AI
