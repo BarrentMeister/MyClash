@@ -52,7 +52,7 @@ payload:
  - DOMAIN-KEYWORD,openai 
  - DOMAIN-SUFFIX,groq.com
  - DOMAIN,api.groq.com
- - DOMAIN,trae.ai
+ - DOMAIN-SUFFIX,trae.ai
  - DOMAIN-KEYWORD,trae-api 
  - IP-CIDR,24.199.123.28/32
  - IP-CIDR,64.23.132.171/32
